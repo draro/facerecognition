@@ -12,7 +12,6 @@ import { Component } from 'react';
 import 'tachyons';
 import Register from './components/Register/Register';
 
-
 const particlesOptions = {
   particles: {
     number: {
